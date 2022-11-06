@@ -1,0 +1,36 @@
+.text-font {
+  font-size: 3rem;
+  font-weight: 3rem;
+}
+
+body {
+  font-family: "M PLUS Rounded 1c", sans-serif;
+  color: #1d121f;
+}
+
+.title {
+  text-align: center;
+  background-color: #464066;
+  font-weight: 700;
+  color: #dea014;
+}
+
+.container {
+  width: 80%;
+}
+
+.step {
+  margin: 20px auto;
+  font-weight: 600;
+}
+
+.input {
+  max-width: 30%;
+  min-width: 30%;
+  height: 2rem;
+  border: solid 1px #1d121f;
+}
+
+.battery-one {
+  border-bottom: solid 3px #d0d0d0;
+}
