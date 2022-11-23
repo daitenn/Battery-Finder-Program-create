@@ -1,6 +1,10 @@
 # Battery-Finder-Program-create
 
 ## project 概要
+
+![スクリーンショット 2022-11-23 17 42 11](https://user-images.githubusercontent.com/101037787/203503258-ecda290e-6489-420f-b64f-093748a9e1ec.png)
+
+
 あなたは電池を量産するエンジニアリングチームに所属しており、顧客に電池を推奨するプログラムを開発する仕事を任されています。
 
 
